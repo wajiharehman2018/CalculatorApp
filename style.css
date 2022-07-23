@@ -1,0 +1,17 @@
+.main-container{
+    width:30%;
+    display: 'flex';
+}
+
+#calculatorContainer{
+    align-items: 'center';
+    justify-content: 'space-between';
+}
+
+#result{
+    width: 100%;
+    border-radius: 10px;
+    height: 50px;
+    display: flex;  
+    justify-content: flex-end;
+}
