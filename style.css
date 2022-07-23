@@ -1,11 +1,11 @@
 .main-container{
-    width:30%;
+    width:55%;
     display: 'flex';
 }
 
 #calculatorContainer{
     align-items: 'center';
-    justify-content: 'space-between';
+    justify-content: 'space-around';
 }
 
 #result{
